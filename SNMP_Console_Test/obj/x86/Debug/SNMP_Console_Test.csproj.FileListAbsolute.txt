@@ -1,0 +1,5 @@
+c:\users\pasa\documents\visual studio 2010\Projects\SNMP_Console_Test\SNMP_Console_Test\bin\Debug\SNMP_Console_Test.exe
+c:\users\pasa\documents\visual studio 2010\Projects\SNMP_Console_Test\SNMP_Console_Test\bin\Debug\SNMP_Console_Test.pdb
+c:\users\pasa\documents\visual studio 2010\Projects\SNMP_Console_Test\SNMP_Console_Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\pasa\documents\visual studio 2010\Projects\SNMP_Console_Test\SNMP_Console_Test\obj\x86\Debug\SNMP_Console_Test.exe
+c:\users\pasa\documents\visual studio 2010\Projects\SNMP_Console_Test\SNMP_Console_Test\obj\x86\Debug\SNMP_Console_Test.pdb
