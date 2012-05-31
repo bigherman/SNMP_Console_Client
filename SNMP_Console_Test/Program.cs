@@ -222,8 +222,8 @@ class SNMP
                          ProtocolType.Udp);
         sock.SetSocketOption(SocketOptionLevel.Socket,
                         SocketOptionName.ReceiveTimeout, 5000);
-        IPHostEntry ihe = Dns.Resolve(host);
-        IPEndPoint iep = new IPEndPoint(ihe.AddressList[0], 161);
+        //IPHostEntry ihe = Dns.Resolve(host);
+        IPEndPoint iep = new IPEndPoint(IPAddress.Parse(host), 161);
         EndPoint ep = (EndPoint)iep;
         sock.SendTo(packet, snmplen, SocketFlags.None, iep);
 
